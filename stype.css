@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url(p.jpg);
+    background-size: cover;
+}
+.Mohinur{
+ text-align: center;
+ margin-top: 200px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
